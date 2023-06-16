@@ -1,0 +1,9 @@
+HMS\Utility\Acitivitycapture.class
+HMS\Utility\ReadExcel.class
+HMS\pages\VistorPage.class
+HMS\Utility\Datepicker.class
+HMS\base\TestBase.class
+HMS\pages\LoginPage.class
+HMS\Utility\Commonutility.class
+HMS\pages\FrontofficePage.class
+HMS\pages\opdpage.class
